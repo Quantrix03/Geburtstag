@@ -1,5 +1,6 @@
 function mehr(){
     document.getElementById("b1").remove()
+    document.getElementById("i0").remove()
     document.getElementById("popup").innerHTML = "Wenn du magst können wir ja mal wieder was unternehmen. Was auch immer du willst (❁´◡`❁)"
     document.getElementById("i1").src = "confetti1.gif"
     document.getElementById("i2").src = "lecker.gif"
