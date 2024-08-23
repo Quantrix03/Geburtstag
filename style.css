@@ -1,0 +1,17 @@
+h1{
+    color: aqua;
+    text-align: center;font-family: 'Courier New', Courier, monospace;
+}
+p{
+    color: aquamarine;
+    font-size: x-large;
+}
+button{
+    border: none;
+    color: aquamarine;
+    background-color: rgb(32, 31, 31);
+    text-shadow: aqua;
+    text-decoration: none;
+    display: inline-block;
+    overflow: hidden
+}
